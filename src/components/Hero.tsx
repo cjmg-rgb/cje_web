@@ -2,10 +2,10 @@ import React from "react";
 
 const Hero = () => {
     return (
-        <div className=" ">
+        <div>
             <div className="flex items-center  max-w-[1280px] mx-auto">
                 <div className="flex-1">
-                    <div className="w-[85%] gap">
+                    <div className="w-[85%]">
                         <h1 className="text-[3.25rem]/14 font-inter-bold mb-6">
                             Your Trusted <br /> Partner for Printing Solutions
                         </h1>
@@ -20,7 +20,7 @@ const Hero = () => {
                             <button className="text-primary font-inter-regular cursor-pointer">
                                 Get Started
                             </button>
-                            <button className="bg-primary text-white px-4 py-2 cursor-pointer rounded-md">
+                            <button className="bg-primary text-white px-4 py-2 cursor-pointer rounded-md font-inter-regular">
                                 Learn More
                             </button>
                         </div>
