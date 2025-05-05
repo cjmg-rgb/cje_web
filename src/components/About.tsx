@@ -12,7 +12,7 @@ const About = () => {
                         </h2>
                     </div>
                     <div className="flex-1 text-xl font-inter-light">
-                        <p>
+                        <p className="text-xl font-inter-light text-gray-500">
                             Lorem ipsum dolor sit amet, consectetur adipiscing
                             elit. Suspendisse varius enim in eros elementum
                             tristique. Duis cursus, mi quis viverra ornare, eros
