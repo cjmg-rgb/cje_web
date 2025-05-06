@@ -1,8 +1,4 @@
-import React, { useState } from "react";
-
 const Feature = () => {
-    const [hidden, setHidden] = useState<"hidden" | "">("");
-
     const features = [
         {
             name: "printer",
