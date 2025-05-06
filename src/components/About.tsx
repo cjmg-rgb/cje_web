@@ -24,9 +24,9 @@ const About = () => {
                     </div>
                 </div>
                 <img
-                    src="https://placehold.co/1280x566"
+                    src="/images/hero1.jpg"
                     alt="Placeholder"
-                    className="rounded-2xl flex-1"
+                    className="rounded-2xl flex-1 w-full h-[566px] object-cover"
                 />
             </div>
         </div>

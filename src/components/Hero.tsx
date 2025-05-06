@@ -27,9 +27,9 @@ const Hero = () => {
                     </div>
                 </div>
                 <img
-                    src="https://placehold.co/640x640"
+                    src="/images/hero.jpg"
                     alt="Placeholder"
-                    className="rounded-2xl flex-1"
+                    className="rounded-2xl flex-1 w-full h-full"
                 />
             </div>
         </div>
