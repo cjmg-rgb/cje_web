@@ -26,11 +26,13 @@ const Hero = () => {
                         </div>
                     </div>
                 </div>
-                <img
-                    src="/images/hero.jpg"
-                    alt="Placeholder"
-                    className="rounded-2xl flex-1 w-full h-full"
-                />
+                <div className="flex-1">
+                    <img
+                        src="/images/hero.jpg"
+                        alt="Placeholder"
+                        className="rounded-2xl w-full h-full object-cover"
+                    />
+                </div>
             </div>
         </div>
     );
