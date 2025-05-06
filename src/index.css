@@ -15,10 +15,16 @@
     src: url("./assets/fonts/Inter_18pt-Bold.ttf");
 }
 
+@font-face {
+    font-family: Inter-Light-Italic;
+    src: url("./assets/fonts/Inter_18pt-LightItalic.ttf");
+}
+
 @theme {
     --font-inter-regular: Inter-Regular, "sans-serif";
     --font-inter-light: Inter-Light, "sans-serif";
     --font-inter-bold: Inter-Bold, "sans-serif";
+    --font-inter-light-italic: Inter-Light-Italic, "sans-serif";
 
     --color-primary: #0853c5;
 }
