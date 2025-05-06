@@ -12,10 +12,10 @@ const Feature = () => {
                     />
                     <div className="col-span-2 justify-center items-center text-center">
                         <h2 className="text-[2rem] font-inter-bold text-center">
-                            SERVICES
+                            SERVI<span className="text-primary">CES</span>
                         </h2>
                         <p className="text-xl font-inter-light text-gray-500">
-                            check our services
+                            CHECK OUT OUR SERVICES
                         </p>
                     </div>
                     <img
@@ -29,9 +29,9 @@ const Feature = () => {
                         className="rounded-md w-full h-full object-cover"
                     />
                     <img
-                        src="https://placehold.co/600x200?text=Placeholder"
+                        src="/images/amplifier.jpg"
                         alt="Placeholder"
-                        className="rounded-md w-full h-full object-cover col-span-2"
+                        className="rounded-md w-full h-[215px] object-cover col-span-2"
                     />
                     <img
                         src="/images/tv.jpg"

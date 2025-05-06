@@ -6,9 +6,10 @@ const About = () => {
             <div className="max-w-[1280px] mx-auto">
                 <div className="flex my-20 items-center">
                     <div className="flex-1">
-                        <h2 className="text-[2rem] font-inter-bold">
-                            CJElectronics: Your Trusted Partner for Quality
-                            Printing and Repair Services
+                        <h2 className="text-[2rem] font-inter-bold w-[85%]">
+                            <span className="text-primary">CJE</span>lectronics:
+                            Your Trusted Partner for Quality Printing and Repair
+                            Services
                         </h2>
                     </div>
                     <div className="flex-1 text-xl font-inter-light">

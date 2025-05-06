@@ -7,7 +7,8 @@ const Hero = () => {
                 <div className="flex-1">
                     <div className="w-[85%]">
                         <h1 className="text-[3.25rem]/14 font-inter-bold mb-6">
-                            Your Trusted <br /> Partner for Printing Solutions
+                            Your <span className="text-primary">Trusted</span>{" "}
+                            <br /> Partner for Printing Solutions!
                         </h1>
                         <p className="text-xl font-inter-light mb-16 text-gray-500">
                             At CJE, we specialize in top-notch printer sales and

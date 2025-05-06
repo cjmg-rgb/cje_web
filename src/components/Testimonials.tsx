@@ -1,6 +1,3 @@
-import React from "react";
-import Star from "../assets/star.svg";
-
 const Testimonials = () => {
     return (
         <div className="mb-20">
@@ -70,9 +67,9 @@ const Testimonials = () => {
                             </p>
                             <div className="flex gap-4">
                                 <img
-                                    src="https://placehold.co/50x50"
+                                    src="https://thispersondoesnotexist.com"
                                     alt=""
-                                    className="rounded-full"
+                                    className="rounded-full w-[50px] h-[50px]"
                                 />
                                 <div>
                                     <p className="font-inter-light">John Doe</p>
@@ -136,9 +133,9 @@ const Testimonials = () => {
                             </p>
                             <div className="flex gap-4">
                                 <img
-                                    src="https://placehold.co/50x50"
+                                    src="https://thispersondoesnotexist.com"
                                     alt=""
-                                    className="rounded-full"
+                                    className="rounded-full w-[50px] h-[50px]"
                                 />
                                 <div>
                                     <p className="font-inter-light">John Doe</p>
